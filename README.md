@@ -17,7 +17,7 @@ You can run the application locally to test predictions instantly.
 1. **Enter a message:** "URGENT! You have won a £1000 cash prize."
 2. **Result:** 🚨 **SPAM DETECTED** (99.8% Confidence)
 
-![App Screenshot](app_screenshot.png) 
+![App Screenshot](screenshot.png) 
 *(Note: Add a screenshot of your Streamlit app here)*
 
 ---
